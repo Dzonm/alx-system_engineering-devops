@@ -12,4 +12,4 @@ Task 0. <o>: Create a script that creates an alias.
 	Name: ls
 	Value: rm *
 Task 1. Hello you: Create a script that prints hello user, where user is the current Linux user.
-Task 
+Task 2.the to success is to take massive, determined action: Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
