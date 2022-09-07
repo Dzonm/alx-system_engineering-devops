@@ -21,4 +21,6 @@ Task 15. Count that word: Display the number of lines that contain the pattern �
 Task 16. What's next?: Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 Task 17. I hate bins: Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 Task 18. Letters only please: Display all lines of the file /etc/ssh/sshd_config starting with a letter,include capital letters as well.
-Task 
+Task 19. A to Z: Replace all characters A and c from input to Z and e respectively.
+Task 20. Without C, you would live in hiago: Create a script that removes all letters c and C from input.
+Task  
