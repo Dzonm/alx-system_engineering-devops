@@ -25,4 +25,12 @@ Task 19. A to Z: Replace all characters A and c from input to Z and e respective
 Task 20. Without C, you would live in hiago: Create a script that removes all letters c and C from input.
 Task 21. esreveR: Write a script that reverse its input.
 Task 22. DJ Cut Killer: Write a script that displays all users and their home directories, sorted by users.Based on the the /etc/passwd file.
-
+Task 24. A gif is worth ten thousand words: Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+	Hidden files should be listed
+	Only regular files (not directories) should be listed
+	The names of the files should be displayed without their extensions
+	The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb, file .b should be listed before file a, and file Rona should be listed after file jay)
+	One file name per line
+	The listing should end with a new line
+	You are not allowed to use basename, grep, egrep, fgrep or rgrep.
+Task 
