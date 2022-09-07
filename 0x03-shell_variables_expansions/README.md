@@ -16,4 +16,7 @@ Task 2.the to success is to take massive, determined action: Add /action to the 
 Task 3. If the path be beautiful, let us not ask where it leads: Create a script that counts the number of directories in the PATH.
 Task 4. Global variables: Create a script that lists environment variables.
 Task 5.Local variables: Create a script that lists all local variables and environment variables, and functions..
-Task 
+Task 6. Local variable: Create a script that creates a new local variable.
+	Name: BEST
+	Value: School.
+Task  
